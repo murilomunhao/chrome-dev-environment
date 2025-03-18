@@ -1,0 +1,13 @@
+# Diretório do perfil do Chrome
+google-chrome-dev-profile/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*~
+
+# Logs
+*.log 
