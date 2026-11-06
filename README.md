@@ -86,6 +86,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Se este projeto te ajudou de alguma forma, considere fazer uma doação:
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E4I024A0VK)
+
 **PIX**: `536c8d7e-fb28-444f-8d58-7fd87397d401`
 
 ![](https://github.com/murilomunhao/boilerplate/blob/main/donate_pix_murilo.jpg)
